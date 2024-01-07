@@ -17,3 +17,11 @@
 
 6. git add .
     => Adds all the changes to git
+7. git commit -m "commit message"
+    => Commits the added changes
+8. git remote add origin <ssh-link>
+
+9. git remote -v
+    => Lists all the remote repo ssh link
+
+ssh-keygen -t rsa -b 4096 -C "your_email@example.com"
