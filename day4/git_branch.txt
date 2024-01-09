@@ -11,3 +11,8 @@ Pull Request
 8. Merge the PR
 9. go to main branch in the local
 10. git pull
+
+
+
+# To clone the repository
+=> git clone <ssh-link>

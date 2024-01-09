@@ -1,0 +1,13 @@
+1. python -m venv venv
+    => Creates a new virtual environment
+
+2. venv\Scripts\activate
+        => Activates the virtual environment
+
+3. deactivate
+4. pip install <package_name>
+5. pip freeze
+    => Lists all the installed packages
+
+6. pip freeze > requirements.txt
+7. pip install -r requirements.txt
