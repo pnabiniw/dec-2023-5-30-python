@@ -1,0 +1,2 @@
+Pull Request
+=> It is the way of merging two branches by comparing the changes and is done in the github.
